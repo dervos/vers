@@ -1,0 +1,24 @@
+{
+  "name": "vers",
+  "version": "1.0.0",
+  "description": "A simple project, gathering ideas about the latest and the next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dervos/vers.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Rollup"
+  ],
+  "author": "Reinhard van Apeldoorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dervos/vers/issues"
+  },
+  "homepage": "https://github.com/dervos/vers#readme"
+}
